@@ -1,6 +1,11 @@
 # TourBugs
-This project is a tour and travel website built using ReactJS. It provides users with information about various travel destinations, allows them to book tours, and provides a seamless browsing experience. The website is designed to be responsive and user-friendly, providing an intuitive interface for users to explore different travel options.
+This project is a tour and travel website built using ReactJS. It provides users with information about Guna Madhya Pradesh's various travel destinations, and provides a seamless browsing experience. The website is designed to be responsive and user-friendly, providing an intuitive interface for users to explore different travel options.
 
+# Feature
+- Homepage: Displays an attractive homepage with featured destinations, popular tours, and special offers.
+- Destination Pages: Provides detailed information about different travel destinations, including descriptions, images, attractions, and user reviews.
+- Responsive Design: Ensures that the website is accessible and functional across different devices and screen sizes.
+- Gallery: User can find the images of Destination in the Gallery Section.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
